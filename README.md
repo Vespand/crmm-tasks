@@ -17,6 +17,6 @@
 
 https://www.figma.com/file/OyD17M0M3njgbODT6UGcfE/crmm-front-tasks?node-id=0%3A1
 
-![](ratign.png?raw=true)
+![](rating.png?raw=true)
 
 ![](profile.png?raw=true)
