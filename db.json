@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "po52tdon5ul",
+      "name": "Leanne Graham",
+      "description": "🤔🤔🤔",
+      "avatar": "https://picsum.photos/200?random=101",
+      "rating": 17
+    },
+    {
+      "id": "6uriy8b1muh",
+      "name": "Ervin Howell",
+      "description": "Люблю сок.",
+      "avatar": "https://picsum.photos/200?random=369",
+      "rating": 32
+    },
+    {
+      "id": "exs2s1xuvtt",
+      "name": "Clementine Bauch",
+      "description": "Не люблю сок.",
+      "avatar": "https://picsum.photos/200?random=210",
+      "rating": 67
+    },
+    {
+      "id": "sh6o0kwd79i",
+      "name": "Patricia Lebsack",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu rhoncus nibh, at posuere felis. Suspendisse potenti. In ut dignissim dui, et volutpat arcu. In hac habitasse platea dictumst. Fusce pretium vel ex quis fringilla. Aliquam consequat non tortor non molestie. Nunc eget velit eget sapien dictum venenatis.",
+      "avatar": "https://picsum.photos/200?random=350",
+      "rating": 37
+    },
+    {
+      "id": "h86ltomfls",
+      "name": "Chelsey Dietrich",
+      "description": "",
+      "avatar": "https://picsum.photos/200?random=676",
+      "rating": 55
+    },
+    {
+      "id": "tm9ddrg68z",
+      "name": "Kurtis Weissnat",
+      "description": "Aenean sagittis, nibh in elementum congue, ligula nisl blandit nisi, non feugiat sapien diam eu quam. Maecenas et lacinia tortor. Donec tortor metus, tincidunt sit amet augue quis, semper aliquet lectus.",
+      "avatar": "https://picsum.photos/200?random=231",
+      "rating": 57
+    },
+    {
+      "id": "vxqfntp7mo",
+      "name": "Nicholas Runolfsdottir",
+      "description": "Cras maximus porttitor nisi, eu placerat quam fermentum at.",
+      "avatar": "https://picsum.photos/200?random=557",
+      "rating": 65
+    },
+    {
+      "id": "1xxynvdukos",
+      "name": "Glenna Reichert",
+      "description": "",
+      "avatar": "https://picsum.photos/200?random=806",
+      "rating": 60
+    },
+    {
+      "id": "utd8pr8znir",
+      "name": "Clementina DuBuque",
+      "description": "Aliquam arcu metus, accumsan in aliquam viverra, posuere ac nisi. Sed mauris sapien, euismod ultricies semper vitae, vehicula ac mi. Vestibulum molestie ultricies erat sit amet tempor.",
+      "avatar": "https://picsum.photos/200?random=109",
+      "rating": 38
+    },
+    {
+      "id": "z02o11gz9eb",
+      "name": "Mrs. Dennis Schulist",
+      "description": "",
+      "avatar": "https://picsum.photos/200?random=635",
+      "rating": 56
+    }
+  ]
+}
