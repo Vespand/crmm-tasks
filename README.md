@@ -13,10 +13,17 @@
 
 `https://my-json-server.typicode.com/Vespand/crmm-tasks/users`
 
-## Figma
+## Технические требования
 
-https://www.figma.com/file/OyD17M0M3njgbODT6UGcfE/crmm-front-tasks?node-id=0%3A1
+- Фреймворк [Vue2](https://vuejs.org/)
+- Для верстки можно использовать как css, так и scss, sass.
+- Допускается использование пакетов на усмотрение исполнителя (например [axios](https://github.com/axios/axios))
+- Результат работы выложить на [github pages](https://pages.github.com/) или другой сервис.
 
-![](rating.png?raw=true)
+## Дизайн
 
-![](profile.png?raw=true)
+- [Ссылка на проект в Figma](https://www.figma.com/file/OyD17M0M3njgbODT6UGcfE/crmm-front-tasks?node-id=0%3A1)
+
+![Rating](rating.png?raw=true)
+
+![Profile](profile.png?raw=true)
